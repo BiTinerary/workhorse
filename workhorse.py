@@ -1,6 +1,6 @@
 import yaml
 
-class automationHours():
+class workhorse():
 	def __init__(self, action):
 		with open("config.yml", 'r') as ymlFile:
 			cfg = yaml.load(ymlFile, Loader=yaml.FullLoader)
@@ -28,4 +28,4 @@ class automationHours():
 		message = self.ymlaction['message']
 		print message
 
-x = automationHours('taxes').createImg()
+x = workhorse('taxes').createImg()
