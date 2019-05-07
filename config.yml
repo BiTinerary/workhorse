@@ -1,0 +1,36 @@
+career:
+  message: null
+  overalldeveloptime: null
+  overalldeveloptimeperrun: null
+  overalldeveloptimeunit: null
+  overallruncounter: null
+  overallsavedunit: null
+  overalltimesaved: null
+  overalltotaldevelopcounter: null
+debug:
+  developtimeperrun: time.timestamp()
+  developtimeunit: minutes
+  totaldevelopcounter: 0
+  totaldevelopertimeused: 0
+listingproject:
+  message: 'Times Ran: 136
+
+    Time Saved: 690 minutes
+
+    '
+  timesavedperrun: 5
+  timesavedunit: minutes
+  totalruncounter: 136
+  totaltimesaved: 690
+manifestproject: null
+salesproject: null
+taxesproject:
+  message: 'Times Ran: 28
+
+    Time Saved: 28 hours
+
+    '
+  timesavedperrun: 1
+  timesavedunit: hours
+  totalruncounter: 28
+  totaltimesaved: 28
