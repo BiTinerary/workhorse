@@ -25,12 +25,12 @@ listingproject:
 manifestproject: null
 salesproject: null
 taxesproject:
-  message: 'Times Ran: 28
+  message: 'Times Ran: 31
 
-    Time Saved: 28 hours
+    Time Saved: 31 hours
 
     '
   timesavedperrun: 1
   timesavedunit: hours
-  totalruncounter: 28
-  totaltimesaved: 28
+  totalruncounter: 31
+  totaltimesaved: 31
