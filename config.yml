@@ -13,24 +13,24 @@ debug:
   totaldevelopcounter: 0
   totaldevelopertimeused: 0
 listingproject:
-  message: 'Times Ran: 136
+  message: 'Times Ran: 3
 
-    Time Saved: 690 minutes
+    Time Saved: 15 minutes
 
     '
   timesavedperrun: 5
   timesavedunit: minutes
-  totalruncounter: 136
-  totaltimesaved: 690
+  totalruncounter: 3
+  totaltimesaved: 15
 manifestproject: null
 salesproject: null
 taxesproject:
-  message: 'Times Ran: 31
+  message: 'Times Ran: 34
 
-    Time Saved: 31 hours
+    Time Saved: 34 hours
 
     '
   timesavedperrun: 1
   timesavedunit: hours
-  totalruncounter: 31
-  totaltimesaved: 31
+  totalruncounter: 0
+  totaltimesaved: 0

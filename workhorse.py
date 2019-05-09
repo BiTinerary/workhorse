@@ -28,4 +28,4 @@ class workhorse():
 		message = self.ymlaction['message']
 		print message
 
-x = workhorse('taxes').createImg()
+x = workhorse('listing').createImg()
