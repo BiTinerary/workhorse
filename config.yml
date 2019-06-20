@@ -1,3 +1,13 @@
+#Time and cost savings as result of implementing multimarket, company wide inventory system which provides optimal warehouse pick routes.
+pickingproject:
+  message: 
+  developtime: 90
+  startdate: 05/28/2019
+  totalruncounter: "today - startdate"
+  timesavedperrun: "1hr/person/day - Base: 2-3 hours/day but relative to increasing volume. ie: 75 minutes/person per day"
+  timesavedunit: minutes
+  totaltimesaved:
+  
 career:
   message: null
   overalldeveloptime: null
@@ -7,21 +17,25 @@ career:
   overallsavedunit: null
   overalltimesaved: null
   overalltotaldevelopcounter: null
+  
 debug:
   developtimeperrun: time.timestamp()
   developtimeunit: minutes
   totaldevelopcounter: 0
   totaldevelopertimeused: 0
+
+#Time and cost savings, per listing, gained through webscraping methods and automated spreadsheet generation.
 listingproject:
   message: 'Times Ran: 3
 
     Time Saved: 15 minutes
 
     '
-  timesavedperrun: 5
-  timesavedunit: minutes
   totalruncounter: 3
+  timesavedunit: minutes
+  timesavedperrun: "Depends on lister and product. Times measured from 4-6 min/listing - 7.5-9 min/listing"
   totaltimesaved: 15
+  
 manifestproject: null
 salesproject: null
 taxesproject:
